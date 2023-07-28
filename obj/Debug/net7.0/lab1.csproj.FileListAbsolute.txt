@@ -1,0 +1,15 @@
+E:\6th sem practical\lab1\bin\Debug\net7.0\lab1.exe
+E:\6th sem practical\lab1\bin\Debug\net7.0\lab1.deps.json
+E:\6th sem practical\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+E:\6th sem practical\lab1\bin\Debug\net7.0\lab1.dll
+E:\6th sem practical\lab1\bin\Debug\net7.0\lab1.pdb
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.csproj.AssemblyReference.cache
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.dll
+E:\6th sem practical\lab1\obj\Debug\net7.0\refint\lab1.dll
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.pdb
+E:\6th sem practical\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+E:\6th sem practical\lab1\obj\Debug\net7.0\ref\lab1.dll
